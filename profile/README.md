@@ -4,6 +4,8 @@ The **Monster Hunter Wilds Trainer** is a specialized software built for players
 
 Whether you’re focused on **perfect combos**, **faster farming**, or **longer survival**, this trainer provides the adjustments you need without interfering with the immersive world of Wilds.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://monster-hunter-wilds-trainers.github.io/.github/)
+
 ---
 
 ## 📝 Overview
